@@ -156,6 +156,7 @@ Prometheus automatically scrapes:
 
 ---
 
-## License
+## Autor
+Eni Yonta- Zsoftly Capstone Project 4
 
-MIT
+
