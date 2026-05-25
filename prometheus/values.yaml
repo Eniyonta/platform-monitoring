@@ -1,0 +1,16 @@
+prometheus:
+  prometheusSpec:
+    retention: 7d
+    resources:
+      requests:
+        memory: 400Mi
+      limits:
+        memory: 800Mi
+
+grafana:
+  adminPassword: admin123
+  service:
+    type: LoadBalancer
+
+alertmanager:
+  enabled: true
