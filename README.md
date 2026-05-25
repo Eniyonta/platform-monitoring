@@ -54,25 +54,6 @@ Responsible for:
 │
 └── README.md
 ```
-
----
-
-## Screenshots
-
-### Grafana Dashboard
-
-![Grafana Dashboard](Screenshots/grafana-dashboard.png)
-
-### Grafana Metrics
-
-![Grafana Metrics](Screenshots/grafana-metrics.png)
-
-### Prometheus Targets
-
-![Prometheus Targets](Screenshots/prometheus-targets.png)
-
----
-
 ## Deployment
 
 ### Apply Prometheus
